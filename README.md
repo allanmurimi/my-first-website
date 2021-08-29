@@ -4,7 +4,7 @@ a highlight about myself
 #### this was the first task assigned to us at moringa school. - week 1
 #### By **allanmurimi**
 ## Description
-why am passionate about coding
+why i choose coding
 ## Technologies Used
 html & css
 ## Support and contact details
