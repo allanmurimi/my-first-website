@@ -1,4 +1,4 @@
-![two](https://user-images.githubusercontent.com/89457206/131143161-0409bf47-1286-4feb-9654-f42a24799460.jpg)
+![geek](https://user-images.githubusercontent.com/89457206/131243221-44d3d34a-2ed4-4142-a68d-6fc3a72dfd1f.png)
 # my-first-website
 a highlight about myself
 #### this was the first task assigned to us at moringa school. - week 1
