@@ -11,5 +11,5 @@ html & css
 github.com/allanmurimi
 +254 712 276 270
 ### License
-this website is licensed under MIT terms.
+this website is licensed under MIT terms and conditions
 Copyright (c) {2021} **allanmurimi**
